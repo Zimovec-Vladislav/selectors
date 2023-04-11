@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+
+    font-family: Arive, sans-serif;
+    font-size: 15px;
+    color: #121212;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    padding: 15px;
+    margin: 20px auto;
+}
+
+.text {
+    margin-bottom: 40px;
+}
+
+.list {
+    margin-bottom: 40px;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 40px;
+}
