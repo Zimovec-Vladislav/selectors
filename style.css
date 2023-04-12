@@ -6,10 +6,20 @@ body {
     color: #121212;
 }
 
+
+
 .container {
     width: 500px;
     padding: 20px;
     margin: 20px auto;
 
     background-color: #eee;
+}
+
+.container h1 {
+    color: red
+}
+
+.title {
+    color: green !important
 }
