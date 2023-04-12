@@ -7,66 +7,9 @@ body {
 }
 
 .container {
-    width: 100%;
-    max-width: 800px;
-    padding: 15px;
+    width: 500px;
+    padding: 20px;
     margin: 20px auto;
-}
 
-
-
-
-
-.text {
-    margin-bottom: 40px;
-}
-
-.text > p:last-of-type {
-    color: green;
-}
-
-.text span {
     background-color: #eee;
-}
-
-.text span[title] {
-    text-decoration: underline;
-}
-
-
-
-
-
-.list {
-    margin-bottom: 40px;
-}
-
-.list li:nth-child(1) {
-    color: blue;
-}
-
-
-
-
-
-.table {
-    width: 100%;
-    margin-bottom: 40px;
-}
-
-.table tbody tr:nth-child(odd) {
-    background-color: #ccc;
-
-}
-
-
-
-
-
-.label {
-    color: #b2b2b2;
-}
-
-.checkbox:checked + .label {
-    color: #000;
 }
